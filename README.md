@@ -87,6 +87,7 @@ http DELETE :8080/tasks/1
 
 🧠 Diagrama de Classes
 classDiagram
+
     class Tasks {
         +Long id
         +String titulo
