@@ -31,3 +31,22 @@ build/
 
 ### VS Code ###
 .vscode/
+# Arquivos do IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Diretório de build
+target/
+bin/
+
+# Arquivos do Eclipse
+.settings/
+.classpath
+.project
+
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
